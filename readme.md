@@ -72,3 +72,5 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Share Your Knowledge
 Make connections, solve problems, and empower people to do great things.
+
+<a href="https://www.insightapp.co/"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
